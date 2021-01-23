@@ -4,7 +4,7 @@ We read inputs from stdin (standard input) and write our answer to the stdout
 (standard output). 
 
 ## Requirements
-Code has been written with Python 3. We didn't use any library our database,
+Code has been written with Python 3. We didn't use any library or database,
 so you can run code as it is. All you need is a Python 3 interpreter.
 
 ## Samples
